@@ -1,0 +1,2292 @@
+{
+    "stations": {
+      "Limuru": {
+        "label": "Limuru",
+        "position": {
+          "lat": 9888767.861,
+          "lon": 217694.299
+        }
+      },
+      "Gitaru": {
+        "label": "Gitaru",
+        "position": {
+          "lat": 9868767.861,
+          "lon": 217694.299
+        }
+      },
+      "Uthiru": {
+        "label": "Uthiru",
+        "position": {
+          "lat": 9868767.861,
+          "lon": 225694.299
+        }
+      },
+      "Kangemi": {
+        "label": "Kangemi",
+        "position": {
+          "lat": 9868767.861,
+          "lon": 229694.299
+        }
+      },
+      "Westlands": {
+        "label": "Westlands",
+        "position": {
+          "lat": 9868767.861,
+          "lon": 253694.299
+        }
+
+      },
+      "Green \nPark": {
+        "label": "Green \nPark",
+        "position": {
+          "lat": 9857767.861,
+          "lon": 254694.299
+        }
+      },
+      "Nyayo": {
+        "label": "Nyayo",
+        "position": {
+          "lat": 9855767.861,
+          "lon": 254694.299
+        }
+      },
+
+      "Imara Daima": {
+        "label": "Imara Daima",
+        "position": {
+          "lat": 9851767.861,
+          "lon": 267694.299
+        }
+      },
+      "Nairobi SGR Terminus": {
+        "label": "Nairobi SGR Terminus",
+        "position": {
+          "lat": 9847767.861,
+          "lon": 267694.299
+        }
+      },
+      "Athi River": {
+        "label": "Athi River",
+        "position": {
+          "lat": 9832767.861,
+          "lon": 282694.299
+        }
+      },
+      "Kitengela": {
+        "label": "Kitengela",
+        "position": {
+          "lat": 9824767.861,
+          "lon": 282694.299
+        }
+      },
+      "KNH": {
+        "label": "KNH",
+        "position": {
+          "lat": 9857767.861,
+          "lon": 251694.299
+        }
+      },
+
+      "T-Mall": {
+        "label": "T-Mall",
+        "position": {
+          "lat": 9853767.861,
+          "lon": 250694.299
+        }
+      },
+      "Bomas": {
+        "label": "Bomas",
+        "position": {
+          "lat": 9848767.861,
+          "lon": 245694.299
+        }
+      },
+
+      "Rongai": {
+        "label": "Rongai",
+        "position": {
+          "lat": 9838767.861,
+          "lon": 244694.299
+        }
+      },
+      "Ngong": {
+        "label": "Ngong",
+        "position": {
+          "lat": 9843767.861,
+          "lon": 214694.299
+        }
+      },
+
+      "Karen": {
+        "label": "Karen",
+        "position": {
+          "lat": 9851767.861,
+          "lon": 223694.299
+        }
+      },
+
+      "Showground": {
+        "label": "Showground",
+        "position": {
+          "lat": 9857767.861,
+          "lon": 232694.299
+        }
+      },
+
+      "Library": {
+        "label": "Library",
+        "position": {
+          "lat": 9857767.879,
+          "lon": 253694.288
+        }
+      },
+
+      "Race \nCourse": {
+        "label": "Race \nCourse",
+        "position": {
+          "lat": 9858767.861,
+          "lon": 258694.299
+        }
+      },
+      "Kariokor": {
+        "label": "Kariokor",
+        "position": {
+          "lat": 9860767.861,
+          "lon": 258694.299
+        }
+      },
+
+      "Chai \nRd": {
+        "label": "Chai \nRd",
+        "position": {
+          "lat": 9862767.861,
+          "lon": 259694.299
+        }
+      },
+      "Muratina \nSt": {
+        "label": "Muratina \nSt",
+        "position": {
+          "lat": 9862767.861,
+          "lon": 260694.299
+        }
+      },
+      "Melawa \nRd": {
+        "label": "Melawa \nRd",
+        "position": {
+          "lat": 9862767.861,
+          "lon": 261694.299
+        }
+      },
+      "Moi Air \nBase": {
+        "label": "Moi Air \nBase",
+        "position": {
+          "lat": 9862767.861,
+          "lon": 262694.299
+        }
+      },
+      "Mathare \nNorth Rd": {
+        "label": "Mathare \nNorth Rd",
+        "position": {
+          "lat": 9862767.861,
+          "lon": 264694.299
+        }
+      },
+      "Mutarakwa \nRd": {
+        "label": "Mutarakwa \nRd",
+        "position": {
+          "lat": 9862767.861,
+          "lon": 268694.299
+        }
+      },
+      "Tala": {
+        "label": "Tala",
+        "position": {
+          "lat": 9862767.861,
+          "lon": 307694.299
+        }
+      },
+      "Mama Lucy Hospital": {
+        "label": "Mama Lucy Hospital",
+        "position": {
+          "lat": 9856767.861,
+          "lon": 270694.299
+        }
+      },
+
+      "Donholm": {
+        "label": "Donholm",
+        "position": {
+          "lat": 9855767.861,
+          "lon": 267694.299
+        }
+      },
+      "Makadara": {
+        "label": "Makadara",
+        "position": {
+          "lat": 9855767.861,
+          "lon": 263694.299
+        }
+      },
+
+      "Yaya Center": {
+        "label": "Yaya Center",
+        "position": {
+          "lat": 9860767.861,
+          "lon": 240694.299
+        }
+      },
+      "James Gichuru": {
+        "label": "James Gichuru",
+        "position": {
+          "lat": 9860760.385,
+          "lon": 231690.562
+        }
+      },
+      "Kawangware": {
+        "label": "Kawangware",
+        "position": {
+          "lat": 9860767.861,
+          "lon": 227694.299
+        }
+      },
+      "Waithaka": {
+        "label": "Waithaka",
+        "position": {
+          "lat": 9860767.861,
+          "lon": 224694.299
+        }
+      },
+
+      "Thogoto": {
+        "label": "Thogoto",
+        "position": {
+          "lat": 9865767.861,
+          "lon": 217694.299
+        }
+      },
+      "Allsops": {
+        "label": "Allsops",
+        "position": {
+          "lat": 9868767.861,
+          "lon": 266694.299
+        }
+      },
+      "Outer\nRing": {
+        "label": "Outer\nRing",
+        "position": {
+          "lat": 9862767.861,
+          "lon": 266694.299
+        }
+      },
+      "Kangundo Road": {
+        "label": "Kangundo Road",
+        "position": {
+          "lat": 9859767.861,
+          "lon": 266694.299
+        }
+      },
+      "Umoja": {
+        "label": "Umoja",
+        "position": {
+          "lat": 9858767.861,
+          "lon": 266694.299
+        }
+      },
+
+      "Taj \nMall": {
+        "label": "Taj \nMall",
+        "position": {
+          "lat": 9852767.861,
+          "lon": 267694.299
+        }
+      },
+      "Kenol": {
+        "label": "Kenol",
+        "position": {
+          "lat": 9911767.861,
+          "lon": 306694.299
+        }
+      },
+      "Witeithie": {
+        "label": "Witeithie",
+        "position": {
+          "lat": 9903767.861,
+          "lon": 298694.299
+        }
+      },
+      "Juja": {
+        "label": "Juja",
+        "position": {
+          "lat": 9894767.861,
+          "lon": 289694.299
+        }
+      },
+      "Kimbo": {
+        "label": "Kimbo",
+        "position": {
+          "lat": 9888767.861,
+          "lon": 283694.299
+        }
+      },
+      "Ruiru": {
+        "label": "Ruiru",
+        "position": {
+          "lat": 9885767.861,
+          "lon": 280694.299
+        }
+      },
+
+      "Kasarani": {
+        "label": "Kasarani",
+        "position": {
+          "lat": 9868767.861,
+          "lon": 272694.299
+        }
+      },
+      "Ngara": {
+        "label": "Ngara",
+        "position": {
+          "lat": 9868767.861,
+          "lon": 261694.299
+        }
+      },
+
+      "Koja \nRoundabout": {
+        "label": "Koja \nRoundabout",
+        "position": {
+          "lat": 9867767.861,
+          "lon": 258694.299
+        }
+      },
+
+      "City \nSq.": {
+        "label": "City \nSq.",
+        "position": {
+          "lat": 9857767.831,
+          "lon": 256694.317
+        }
+      },
+      "Uphill": {
+        "label": "Uphill",
+        "position": {
+          "lat": 9857767.855,
+          "lon": 252694.303
+        }
+      },
+      "Nairobi \nCentral": {
+        "label": "Nairobi \nCentral",
+        "position": {
+          "lat": 9855767.861,
+          "lon": 258694.299
+        }
+      },
+      "Strathmore \nUniversity": {
+        "label": "Strathmore \nUniversity",
+        "position": {
+          "lat": 9855767.861,
+          "lon": 250694.299
+        }
+      },
+      "Ngummo": {
+        "label": "Ngummo",
+        "position": {
+          "lat": 9855767.861,
+          "lon": 246694.299
+        }
+      },
+      "Mashimoni": {
+        "label": "Mashimoni",
+        "position": {
+          "lat": 9855767.861,
+          "lon": 242694.299
+        }
+      },
+      "Olympic": {
+        "label": "Olympic",
+        "position": {
+          "lat": 9855767.861,
+          "lon": 238694.299
+        }
+      },
+      "Kibera": {
+        "label": "Kibera",
+        "position": {
+          "lat": 9855767.861,
+          "lon": 233694.299
+        }
+      },
+      "Kimbo \nStage": {
+        "label": "Kimbo \nStage",
+        "position": {
+          "lat": 9855767.829,
+          "lon": 229694.238
+        }
+      },
+      "Lenana/ Riruta": {
+        "label": "Lenana/ Riruta",
+        "position": {
+          "lat": 9855767.861,
+          "lon": 225694.299
+        }
+      },
+      "Mutuini": {
+        "label": "Mutuini",
+        "position": {
+          "lat": 9858768.035,
+          "lon": 222693.722
+        }
+      },
+      "Dagoreti": {
+        "label": "Dagoreti",
+        "position": {
+          "lat": 9860768.159,
+          "lon": 220693.35
+        }
+      },
+      "Dagoreti \nMarket": {
+        "label": "Dagoreti \nMarket",
+        "position": {
+          "lat": 9861767.861,
+          "lon": 219694.299
+        }
+      },
+      "Kikuyu": {
+        "label": "Kikuyu",
+        "position": {
+          "lat": 9871769.501,
+          "lon": 218692.527
+        }
+      },
+      "Nderi": {
+        "label": "Nderi",
+        "position": {
+          "lat": 9875770.023,
+          "lon": 218692.373
+        }
+      },
+      "Muguga": {
+        "label": "Muguga",
+        "position": {
+          "lat": 9880770.763,
+          "lon": 218692.268
+        }
+      },
+      "Tilisi Estate": {
+        "label": "Tilisi Estate",
+        "position": {
+          "lat": 9884771.4,
+          "lon": 218692.244
+        }
+      },
+      "Kariobangi South": {
+        "label": "Kariobangi South",
+        "position": {
+          "lat": 9860767.812,
+          "lon": 268694.308
+        }
+      },
+      "Dandora": {
+        "label": "Dandora",
+        "position": {
+          "lat": 9862767.861,
+          "lon": 270694.299
+        }
+      },
+      "KPCU": {
+        "label": "KPCU",
+        "position": {
+          "lat": 9864767.861,
+          "lon": 272694.299
+        }
+      },
+      "Maili Saba": {
+        "label": "Maili Saba",
+        "position": {
+          "lat": 9866767.861,
+          "lon": 274694.299
+        }
+      },
+      "Mwiki": {
+        "label": "Mwiki",
+        "position": {
+          "lat": 9868767.861,
+          "lon": 276694.299
+        }
+      },
+      "Bridge": {
+        "label": "Bridge",
+        "position": {
+          "lat": 9870767.861,
+          "lon": 276694.299
+        }
+      },
+      "Githurai": {
+        "label": "Githurai",
+        "position": {
+          "lat": 9874767.861,
+          "lon": 276694.299
+        }
+      },
+      "Kahawa West": {
+        "label": "Kahawa West",
+        "position": {
+          "lat": 9877767.861,
+          "lon": 276694.299
+        }
+      },
+      "Kenyatta University": {
+        "label": "Kenyatta University",
+        "position": {
+          "lat": 9880767.861,
+          "lon": 276694.299
+        }
+      },
+      "Gitambaya": {
+        "label": "Gitambaya",
+        "position": {
+          "lat": 9883767.861,
+          "lon": 279694.299
+        }
+      },
+      "Kalimoni": {
+        "label": "Kalimoni",
+        "position": {
+          "lat": 9891767.861,
+          "lon": 287694.299
+        }
+      },
+      "Thika \nEast": {
+        "label": "Thika \nEast",
+        "position": {
+          "lat": 9903767.861,
+          "lon": 299694.299
+        }
+      },
+      "Thika \nSouth": {
+        "label": "Thika \nSouth",
+        "position": {
+          "lat": 9903767.861,
+          "lon": 303694.299
+        }
+      },
+      "Thika": {
+        "label": "Thika",
+        "position": {
+          "lat": 9903767.861,
+          "lon": 307694.299
+        }
+      },
+      "Marimbeti": {
+        "label": "Marimbeti",
+        "position": {
+          "lat": 9838767.923,
+          "lon": 276694.21
+        }
+      },
+      "Lukenya": {
+        "label": "Lukenya",
+        "position": {
+          "lat": 9819768.002,
+          "lon": 282694.071
+        }
+      },
+      "Avenue Park": {
+        "label": "Avenue Park",
+        "position": {
+          "lat": 9853767.865,
+          "lon": 269694.28
+        }
+      },
+      "Pipeline": {
+        "label": "Pipeline",
+        "position": {
+          "lat": 9851767.869,
+          "lon": 271694.262
+        }
+      },
+      "Aviation": {
+        "label": "Aviation",
+        "position": {
+          "lat": 9851767.861,
+          "lon": 275694.299
+        }
+      },
+      "Embakasi Village": {
+        "label": "Embakasi Village",
+        "position": {
+          "lat": 9851767.861,
+          "lon": 279694.299
+        }
+      },
+      "Bul-Bul": {
+        "label": "Bul-Bul",
+        "position": {
+          "lat": 9847766.536,
+          "lon": 217694.119
+        }
+      }
+    },
+    "lines": [
+      {
+        "name": "BRT Line 1: Limuru - Kitengela",
+        "label": "BRT Line 1: Limuru - Kitengela",
+        "color": "#FFD600",
+        "shiftCoords": [
+          1,
+          0
+        ],
+        "nodes": [
+          {
+            "name": "Limuru",
+            "coords": [
+              16,
+              276
+            ],
+            "labelPos": "W",
+            "canonical": false,
+            "shiftCoords": [-1.8, 0],
+            "labelShiftCoords": [0, 0]
+          },
+          {
+            "name": "Gitaru",
+            "coords": [
+              16,
+              196
+            ],
+            "labelPos": "W",
+            "canonical": false,
+            "shiftCoords": [-2.5, 0],
+            "labelShiftCoords": [0, 0],
+            "hide": true
+
+          },
+          {
+            "name": "Uthiru",
+            "coords": [
+              48,
+              196
+            ],
+            "labelPos": "N",
+            "labelShiftCoords":[1,0.1]
+          },
+          {
+            "name": "Kangemi",
+            "coords": [
+              64,
+              196
+            ],
+            "labelPos": "N",
+            "labelShiftCoords":[1,0.1]
+          },
+          {
+            "name": "Westlands",
+            "coords": [
+              160,
+              196
+            ],
+            "labelPos": "N",
+            "labelShiftCoords":[1,0.1]
+          },
+          {
+
+            "coords": [
+              164,
+              196
+            ]
+          },
+          {
+            "name": "Green \nPark",
+            "coords": [
+              164,
+              152
+            ],
+            "marker": "interchange",
+            "labelPos": "N",
+            "canonical": false,
+            "shiftCoords": [0, 0],
+            "labelShiftCoords": [-1, 0],
+            "hide": true
+            
+          },
+          {
+            "name": "Nyayo",
+            "coords": [
+              164,
+              144
+            ],
+            "labelPos": "W",
+            "canonical": false,
+            "hide": true
+
+          },
+          {
+           "coords": [
+              164,
+              128
+            ]
+          },
+          {
+
+            "coords": [
+              212,
+              128
+            ]
+          },
+          {
+            "name": "Imara Daima",
+            "coords": [
+              216,
+              128
+            ],
+            "labelPos": "W",
+            "marker": "interchange",
+            "canonical": false,
+            "shiftCoords": [0.5, 0],
+            "labelShiftCoords": [1, 0],
+            "hide": true
+          },
+          {
+            "name": "Nairobi SGR Terminus",
+            "coords": [
+              216,
+              112
+            ],
+            "labelPos": "E",
+            "canonical": true,
+            "shiftCoords": [1.8, -1],
+            "labelShiftCoords": [1.5, -1],
+            "hide": false
+          },
+          {
+            "name": "Athi River",
+            "coords": [
+              276,
+              52
+            ],
+            "labelPos": "E",
+            "canonical": true,
+            "shiftCoords": [1, -1],
+            "labelShiftCoords": [1, -1],
+            "hide": false
+          },
+          {
+            "name": "Kitengela",
+            "coords": [
+              276,
+              20
+            ],
+            "labelPos": "E",
+            "canonical": true,
+            "shiftCoords": [1, -1],
+            "labelShiftCoords": [1, -1],
+            "hide": false
+          }
+        ]
+      },
+
+      {
+        "name": "BRT Line 2: Kenol - Ruiru Route",
+        "label": "BRT Line 2: Kenol - Ruiru Route",
+        "color": "#5D2BBF",
+        "shiftCoords": [
+          0,
+          0
+        ],
+        "nodes": [
+          {
+            "name": "Kenol",
+            "coords": [
+              374,
+              372
+            ],
+            "labelPos": "NE"
+          },
+          {
+            "name": "Witeithie",
+            "coords": [
+              342,
+              340
+            ],
+            "labelPos": "NW"
+          },
+          {
+            "name": "Juja",
+            "coords": [
+              306,
+              304
+            ],
+            "labelPos": "SW",
+            "canonical": false,
+            "hide": false,
+            "shiftCoords":[-1.2,3.2]
+
+          },
+          {
+            "name": "Kimbo",
+            "coords": [
+              282,
+              280
+            ],
+            "labelPos": "NW"
+          },
+          {
+            "name": "Ruiru",
+            "coords": [
+              270,
+              268
+            ],
+            "labelPos": "SW",
+            "canonical": false,
+            "hide": true
+          }
+        ]
+      },
+      {
+        "name": "BRT Line 2: Ruiru - Nairobi Central Route",
+        "label": "BRT Line 2: Ruiru - Nairobi Central Route",
+        "color": "#BF5D2B",
+        "shiftCoords": [
+          0,
+          0
+        ],
+        "nodes": [
+          {
+            "name": "Ruiru",
+            "coords": [
+              270,
+              268
+            ],
+            "labelPos": "SE",
+            "canonical": false,
+            "hide": false,
+            "shiftCoords":[-2.1,2.1]
+          },
+          {
+
+            "coords": [
+              250,
+              248
+            ]
+          },
+          {
+
+            "coords": [
+              250,
+              220
+            ]
+          },
+          {
+
+            "coords": [
+              250,
+              199
+            ]
+          },
+          {
+            "name": "Kasarani",
+            "coords": [
+              236,
+              199
+            ],
+            "labelPos": "N"
+          },
+          {
+            "name": "Ngara",
+            "coords": [
+              192,
+              199
+            ],
+            "labelPos": "N"
+          },
+          {
+
+            "coords": [
+              180.5,
+              199
+            ]
+          },
+          {
+            "name": "Koja \nRoundabout",
+            "coords": [
+              180.5,
+              192
+            ],
+            "labelPos": "E",
+            "shiftCoords": [1, 0]
+          },
+          {
+            "name": "Nairobi \nCentral",
+            "coords": [
+              180.5,
+              144
+            ],
+            "labelPos": "S",
+            "marker": "interchange",
+            "canonical": false,
+            "shiftCoords": [0,0],
+            "labelShiftCoords": [0, 0],
+            "hide": true
+          }
+        ]
+      },
+      {
+        "name": "BRT Line 2: Kasarani - KNH Route",
+        "label": "BRT Line 2: Kasarani - KNH Route",
+        "color": "#85898A",
+        "shiftCoords": [
+          0,
+          0
+        ],
+        "nodes": [
+          {
+            "name": "Kasarani",
+            "coords": [
+              236,
+              200.5
+            ],
+            "labelPos": "N"
+          },
+          {
+            "name": "Ngara",
+            "coords": [
+              192,
+              200.5
+            ],
+            "labelPos": "N"
+          },
+          {
+
+            "coords": [
+              179,
+              200.5
+            ]
+          },
+          {
+            "name": "Koja \nRoundabout",
+            "coords": [
+              179,
+              192
+            ],
+            "labelPos": "E"
+          },
+          {
+            "name": "Nairobi \nCentral",
+            "coords": [
+              179,
+              145
+            ],
+            "labelPos": "S",
+            "marker": "interchange",
+            "canonical": false,
+            "shiftCoords": [0,0],
+            "labelShiftCoords": [0, 0],
+            "hide": true
+          },
+          {
+
+            "coords": [
+              176,
+              145
+            ]
+          },
+          {
+
+            "coords": [
+              176,
+              152
+            ]
+          },
+          {
+            "name": "City \nSq.",
+            "coords": [
+              172,
+              152
+            ],
+            "labelPos": "S",
+            "labelShiftCoords":[-0.7,1.5]
+          },
+          {
+            "name": "Library",
+            "coords": [
+              160,
+              152
+            ],
+            "labelPos": "N",
+            "labelShiftCoords": [0,1]
+          },
+          {
+            "name": "Uphill",
+            "coords": [
+              156,
+              152
+            ],
+            "labelPos": "S",
+            "labelShiftCoords": [0.5, 1]
+          },
+          {
+            "name": "KNH",
+            "coords": [
+              152,
+              152
+            ],
+            "labelPos": "N",
+            "marker": "interchange",
+            "canonical": false,
+            "shiftCoords": [0,0.5],
+            "labelShiftCoords": [-0.5, 1],
+            "hide": true
+          }
+        ]
+      },
+      {
+        "name": "BRT Line 2: KNH - Rongai Route",
+        "label": ": KNH - Rongai Route",
+        "color": "#0C6826",
+        "shiftCoords": [
+          0,
+          0
+        ],
+        "nodes": [
+          {
+            "name": "KNH",
+            "coords": [
+              152,
+              152
+            ],
+            "labelPos": "W",
+            "marker": "interchange",
+            "canonical": false,
+            "shiftCoords": [0,0.5],
+            "labelShiftCoords": [0, 0],
+            "hide": true
+          },
+          {
+
+            "coords": [
+              152,
+              140
+            ]
+          },
+          {
+            "name": "T-Mall",
+            "coords": [
+              152,
+              132
+            ],
+            "labelPos": "E"
+          },
+          {
+            "name": "Bomas",
+            "coords": [
+              152,
+              116
+            ],
+            "labelPos": "W"
+          },
+          {
+
+            "coords": [
+              152,
+              112
+            ]
+          },
+          {
+            "name": "Rongai",
+            "coords": [
+              152,
+              76
+            ],
+            "labelPos": "S"
+          }
+        ]
+      },
+      {
+        "name": "BRT Line 3: Tala - Ngong",
+        "label": "BRT Line 3: Tala - Ngong",
+        "color": "#2B8DBF",
+        "shiftCoords": [
+          0,
+          1
+        ],
+        "nodes": [
+          {
+            "name": "Ngong",
+            "coords": [
+              1.5,
+              92
+            ],
+            "labelPos": "SW",
+            "canonical": false,
+            "shiftCoords": [1,-3.3]
+          },
+          {
+
+            "coords": [
+              37.5,
+              128
+            ]
+          },
+          {
+            "name": "Karen",
+            "coords": [
+              41.5,
+              128
+            ],
+            "labelPos": "NW",
+            "canonical": false,
+            "shiftCoords": [1.95,-0.9]
+          },
+          {
+
+            "coords": [
+              73.5,
+              128
+            ]
+          },
+          {
+
+            "coords": [
+              73.4,
+              152
+            ]
+          },
+          {
+            "name": "Showground",
+            "coords": [
+              76,
+              152
+            ],
+            "labelPos": "S",
+            "labelShiftCoords": [5,2]
+          },
+          {
+            "name": "KNH",
+            "coords": [
+              152,
+              152
+            ],
+            "labelPos": "N",
+            "marker": "interchange",
+            "canonical": true,
+            "shiftCoords": [0,0.5],
+            "labelShiftCoords": [-0.5, 1],
+            "hide": false
+          },
+          {
+            "name": "Library",
+            "coords": [
+              160,
+              152
+            ],
+            "labelPos": "N"
+          },
+          {
+            "name": "Green \nPark",
+            "coords": [
+              164,
+              152
+            ],
+            "labelPos": "N",
+            "marker": "interchange",
+            "canonical": true,
+            "shiftCoords": [1, 0.5],
+            "labelShiftCoords": [4.5, 0],
+            "hide": false
+          },
+          {
+            "name": "City \nSq.",
+            "coords": [
+              172,
+              152
+            ],
+            "labelPos": "S"
+          },
+          {
+
+            "coords": [
+              182,
+              152
+            ]
+          },
+          {
+
+            "coords": [
+              182,
+              147
+            ]
+          },
+          {
+            "name": "Nairobi \nCentral",
+            "coords": [
+              184,
+              147
+            ],
+            "labelPos": "S",
+            "marker": "interchange",
+            "canonical": false,
+            "shiftCoords": [0,0],
+            "labelShiftCoords": [0, 0],
+            "hide": true
+  
+          },
+          {
+            "name": "Race \nCourse",
+            "coords": [
+              184,
+              154
+            ],
+            "labelPos": "E"
+          },
+          {
+            "name": "Kariokor",
+            "coords": [
+              184,
+              160
+            ],
+            "labelPos": "E"
+          },
+          {
+
+            "coords": [
+              184,
+              172
+            ]
+          },
+          {
+            "name": "Chai \nRd",
+            "coords": [
+              186,
+              172
+            ],
+            "labelPos": "N",
+            "labelShiftCoords": [-0.5, 1]
+          },
+          {
+            "name": "Muratina \nSt",
+            "coords": [
+              191,
+              172
+            ],
+            "labelPos": "S",
+            "labelShiftCoords": [0, 2]
+          },
+          {
+            "name": "Melawa \nRd",
+            "coords": [
+              196,
+              172
+            ],
+            "labelPos": "N",
+            "labelShiftCoords": [-0.5, 1]
+          },
+          {
+            "name": "Moi Air \nBase",
+            "coords": [
+              201,
+              172
+            ],
+            "labelPos": "S",
+            "labelShiftCoords": [1, 2]
+          },
+          {
+            "name": "Mathare \nNorth Rd",
+            "coords": [
+              208,
+              172
+            ],
+            "labelPos": "N",
+            "labelShiftCoords": [-1, 1]
+          },
+          {
+            "name": "Outer\nRing",
+            "coords": [
+              213.5,
+              172
+            ],
+            "labelPos": "E",
+            "marker": "interchange",
+            "canonical": true,
+            "shiftCoords": [1,1],
+            "labelShiftCoords": [0, -0.8],
+            "hide": false
+          },
+          {
+            "name": "Mutarakwa \nRd",
+            "coords": [
+              222,
+              172
+            ],
+            "labelPos": "N",
+            "labelShiftCoords": [0.2, 1]
+          },
+          {
+            "name": "Dandora",
+            "coords": [
+              228,
+              172
+            ],
+            "labelPos": "E",
+            "marker": "interchange",
+            "canonical": true,
+            "shiftCoords": [-1,1],
+            "labelShiftCoords": [-2, -1],
+            "hide": false
+          },
+          {
+            "name": "Tala",
+            "coords": [
+              376,
+              172
+            ],
+            "labelPos": "E"
+          }
+        ]
+      },
+
+      {
+        "name": "BRT Line 4: Mama Lucy Hospital - Kikuyu",
+        "label": "BRT Line 4: Mama Lucy Hospital - Kikuyu",
+        "color": "#D70FF0",
+        "shiftCoords": [
+          1,
+          1
+        ],
+        "nodes": [
+          {
+            "name": "Mama Lucy Hospital",
+            "coords": [
+              228,
+              148
+            ],
+            "labelPos": "E"
+          },
+          {
+
+            "coords": [
+              228,
+              144
+            ]
+          },
+          {
+            "name": "Donholm",
+            "coords": [
+              216,
+              144
+            ],
+            "labelPos": "E",
+            "marker": "interchange",
+            "canonical": true,
+            "shiftCoords": [0,0.2],
+            "labelShiftCoords": [0, -0.5],
+            "hide": false
+          },
+          {
+            "name": "Makadara",
+            "coords": [
+              200,
+              144
+            ],
+            "labelPos": "S",
+            "marker": "interchange",
+            "canonical": true,
+            "shiftCoords": [0,0.2],
+            "labelShiftCoords": [0, 0],
+            "hide": false
+          },
+          {
+            "name": "Nairobi \nCentral",
+            "coords": [
+              180,
+              144
+            ],
+            "labelPos": "S",
+            "marker": "interchange",
+            "canonical": false,
+            "shiftCoords": [0,0],
+            "labelShiftCoords": [0, 0],
+            "hide": true
+          },
+          {
+
+            "coords": [
+              176,
+              144
+            ]
+          },
+          {
+
+            "coords": [
+              176,
+              164
+            ]
+          },
+          {
+            "name": "Yaya Center",
+            "coords": [
+              108,
+              164
+            ],
+            "labelPos": "N"
+          },
+          {
+            "name": "James Gichuru",
+            "coords": [
+              72,
+              164
+            ],
+            "labelPos": "S",
+            "labelShiftCoords":[1,1.5]
+          },
+          {
+            "name": "Kawangware",
+            "coords": [
+              56,
+              164
+            ],
+            "labelPos": "N",
+            "labelShiftCoords": [2.5, 1]
+          },
+          {
+            "name": "Waithaka",
+            "coords": [
+              44,
+              164
+            ],
+            "labelPos": "S",
+            "labelShiftCoords":[1,1.5]
+          },
+          {
+            "name": "Dagoreti",
+            "coords": [
+              22,
+              164
+            ],
+            "labelPos": "S",
+            "shiftCoords":[1.3,1.17]
+          },
+          {
+
+            "coords": [
+              16,
+              170
+            ]
+          },
+          {
+            "name": "Thogoto",
+            "coords": [
+              16,
+              184
+            ],
+            "labelPos": "S",
+            "shiftCoords": [-1.5, 0]
+          },
+          {
+            "name": "Gitaru",
+            "coords": [
+              16,
+              196
+            ],
+            "labelPos": "S",
+            "canonical": false,
+            "shiftCoords": [-2.5, 0],
+            "labelShiftCoords": [0, 0],
+            "hide": true
+            
+
+          }
+        ]
+      },
+      {
+        "name": "BRT Line 5: Allsops - Imara Daima",
+        "label": "BRT Line 5: Allsops - Imara Daima",
+        "color": "#6AE11E",
+        "shiftCoords": [
+          1,
+          0
+        ],
+        "nodes": [
+          {
+            "name": "Allsops",
+            "coords": [
+              212,
+              197.5
+            ],
+            "labelPos": "E",
+            "shiftCoords": [0,0],
+            "labelShiftCoords":[0,-1]
+          },
+          {
+            "name": "Outer\nRing",
+            "coords": [
+              212,
+              172
+            ],
+            "labelPos": "E",
+            "canonical": false,
+            "shiftCoords": [1,1],
+            "labelShiftCoords": [0.2, -0.35],
+            "hide": true
+          },
+          {
+            "name": "Kangundo Road",
+            "coords": [
+              212,
+              160
+            ],
+            "labelPos": "E",
+            "shiftCoords": [1, -0.5]
+          },
+          {
+            "name": "Umoja",
+            "coords": [
+              212,
+              156
+            ],
+            "labelPos": "NW",
+            "canonical": false,
+            "hide": false,
+            "shiftCoords": [1.2, 0.6]
+            
+          },
+          {
+
+            "coords": [
+              216,
+              156
+            ]
+          },
+          {
+            "name": "Donholm",
+            "coords": [
+              216,
+              144
+            ],
+            "labelPos": "S"
+          },
+          {
+            "name": "Taj \nMall",
+            "coords": [
+              216,
+              132
+            ],
+            "labelPos": "E",
+            "labelShiftCoords":[1,1]
+          },
+          {
+            "name": "Imara Daima",
+            "coords": [
+              216,
+              128
+            ],
+            "labelPos": "S",
+            "canonical": false,
+            "hide": true
+          
+          }
+        ]
+      },
+
+  
+      {
+        "name": "NCR Line 1: Nairobi Central - Limuru",
+        "label": "NCR Line 1: Nairobi Central - Limuru",
+        "color": "#0FF0D7",
+        "shiftCoords": [
+          0,
+          0
+        ],
+        "mode": "rail",
+        "nodes": [
+          {
+            "name": "Nairobi \nCentral",
+            "coords": [
+              180,
+              144
+            ],
+            "labelPos": "S",
+            "marker": "interchange",
+            "canonical": true,
+            "shiftCoords": [0,0.2],
+            "labelShiftCoords": [0, 0],
+            "hide": false
+          },
+          {
+            "name": "Nyayo",
+            "coords": [
+              164,
+              144
+            ],
+            "labelPos": "S",
+            "canonical": true,
+            "shiftCoords": [0, 0],
+            "labelShiftCoords": [-2.5, 0],
+            "hide": false
+          },
+          {
+            "name": "Strathmore \nUniversity",
+            "coords": [
+              148,
+              144
+            ],
+            "labelPos": "S",
+            "canonical": true,
+            "shiftCoords": [0, 0],
+            "labelShiftCoords": [-3, 0],
+            "hide": false
+
+          },
+          {
+            "name": "Ngummo",
+            "coords": [
+              132,
+              144
+            ],
+            "labelPos": "N"
+          },
+          {
+            "name": "Mashimoni",
+            "coords": [
+              116,
+              144
+            ],
+            "labelPos": "S"
+          },
+          {
+            "name": "Olympic",
+            "coords": [
+              100,
+              144
+            ],
+            "labelPos": "S"
+          },
+          {
+            "name": "Kibera",
+            "coords": [
+              80,
+              144
+            ],
+            "labelPos": "S"
+          },
+          {
+            "name": "Kimbo \nStage",
+            "coords": [
+              64,
+              144
+            ],
+            "labelPos": "S"
+          },
+          {
+            "name": "Lenana/ Riruta",
+            "coords": [
+              48,
+              144
+            ],
+            "labelPos": "W",
+            "marker": "interchange",
+            "canonical": true,
+            "shiftCoords": [0, -0.5]
+
+          },
+          {
+            "name": "Mutuini",
+            "coords": [
+              36,
+              156
+            ],
+            "labelPos": "SW"
+          },
+          {
+            "name": "Dagoreti",
+            "coords": [
+              28,
+              164
+            ],
+            "labelPos": "SW",
+            "canonical": true,
+            "shiftCoords": [0, 0],
+            "labelShiftCoords": [0, 0],
+            "hide": false
+          },
+          {
+            "name": "Dagoreti \nMarket",
+            "coords": [
+              24,
+              168
+            ],
+            "labelPos": "NE",
+            "shiftCoords": [0, 0],
+            "labelShiftCoords": [0.5, 0]
+          },
+          {
+
+            "coords": [
+              20,
+              172
+            ]
+          },
+          {
+            "name": "Thogoto",
+            "coords": [
+              20,
+              184
+            ],
+            "labelPos": "W",
+            "canonical": true,
+            "shiftCoords": [0, 0],
+            "labelShiftCoords": [-2, 0]
+          },
+          {
+            "name": "Gitaru",
+            "coords": [
+              20,
+              196
+            ],
+            "labelPos": "W",
+            "marker": "interchange",
+            "canonical": true,
+            "shiftCoords": [-0.9, 0],
+            "labelShiftCoords": [-2, 0]
+
+          },
+          {
+            "name": "Kikuyu",
+            "coords": [
+              20,
+              208
+            ],
+            "labelPos": "E",
+            "shiftCoords": [0, 0],
+            "labelShiftCoords": [0, 0]
+          },
+          {
+            "name": "Nderi",
+            "coords": [
+              20,
+              224
+            ],
+            "labelPos": "E",
+            "shiftCoords": [0, 0],
+            "labelShiftCoords": [0, 0]
+          },
+          {
+            "name": "Muguga",
+            "coords": [
+              20,
+              244
+            ],
+            "labelPos": "E",
+            "shiftCoords": [0, 0],
+            "labelShiftCoords": [0, 0]
+          },
+          {
+            "name": "Tilisi Estate",
+            "coords": [
+              20,
+              260
+            ],
+            "labelPos": "E",
+            "shiftCoords": [0, 0],
+            "labelShiftCoords": [0, 0]
+          },
+          {
+            "name": "Limuru",
+            "coords": [
+              20,
+              276
+            ],
+            "labelPos": "N",
+            "canonical": true,
+            "shiftCoords": [0, 0],
+            "labelShiftCoords": [-1, 1]
+          }
+        ]
+      },
+      {
+        "name": "NCR Line 2: Nairobi Central - Thika",
+        "label": "NCR Line 2: Nairobi Central - Thika",
+        "color": "#000000",
+        "shiftCoords": [
+          0,
+          2
+        ],
+        "mode": "rail",
+        "nodes": [
+          {
+            "name": "Nairobi \nCentral",
+            "coords": [
+              181,
+              144
+            ],
+            "labelPos": "S",
+            "marker": "interchange",
+            "canonical": false,
+            "shiftCoords": [0,0],
+            "labelShiftCoords": [0, 0],
+            "hide": true
+          },
+          {
+            "name": "Makadara",
+            "coords": [
+              200,
+              144
+            ],
+            "labelPos": "S",
+            "marker": "interchange",
+            "canonical": false,
+            "shiftCoords": [0,0],
+            "labelShiftCoords": [0, 0],
+            "hide": true
+          },
+          {
+            "name": "Umoja",
+            "coords": [
+              212,
+              156
+            ],
+            "labelPos": "NW",
+            "canonical": true,
+            "hide": false
+          },
+          {
+            "name": "Kariobangi South",
+            "coords": [
+              220,
+              164
+            ],
+            "labelPos": "SE"
+          },
+          {
+            "name": "Dandora",
+            "coords": [
+              228,
+              172
+            ],
+            "labelPos": "S"
+          },
+          {
+            "name": "KPCU",
+            "coords": [
+              236,
+              180
+            ],
+            "labelPos": "SE"
+          },
+          {
+            "name": "Maili Saba",
+            "coords": [
+              244,
+              188
+            ],
+            "labelPos": "SE"
+          },
+          {
+            "name": "Mwiki",
+            "coords": [
+              252,
+              196
+            ],
+            "labelPos": "E",
+            "shiftCoords": [0, 2.5]
+          },
+          {
+            "name": "Bridge",
+            "coords": [
+              252,
+              204
+            ],
+            "labelPos": "E"
+          },
+          {
+            "name": "Githurai",
+            "coords": [
+              252,
+              220
+            ],
+            "labelPos": "E"
+          },
+          {
+            "name": "Kahawa West",
+            "coords": [
+              252,
+              232
+            ],
+            "labelPos": "E"
+          },
+          {
+            "name": "Kenyatta University",
+            "coords": [
+              252,
+              244
+            ],
+            "labelPos": "E"
+          },
+          {
+            "name": "Gitambaya",
+            "coords": [
+              264,
+              256
+            ],
+            "labelPos": "SE"
+          },
+          {
+            "name": "Ruiru",
+            "coords": [
+              272,
+              264
+            ],
+            "labelPos": "SE",
+            "canonical": true,
+            "hide": false,
+            "shiftCoords":[-1,1]
+          },
+          {
+            "name": "Kalimoni",
+            "coords": [
+              296,
+              288
+            ],
+            "labelPos": "SE"
+          },
+          {
+            "name": "Juja",
+            "coords": [
+              308,
+              300
+            ],
+            "labelPos": "SE",
+            "canonical": true,
+            "hide": false,
+            "shiftCoords":[0,2]
+          },
+          {
+            "name": "Thika \nEast",
+            "coords": [
+              344,
+              336
+            ],
+            "labelPos": "S",
+            "shiftCoords": [0.5, 2],
+            "labelShiftCoords": [1, 2]
+          },
+          {
+            "name": "Thika \nSouth",
+            "coords": [
+              360,
+              336
+            ],
+            "labelPos": "S"
+          },
+          {
+            "name": "Thika",
+            "coords": [
+              376,
+              336
+            ],
+            "labelPos": "E"
+          }
+        ]
+      },
+      {
+        "name": "NCR Line 3: Nairobi Central - Lukenya",
+        "label": "NCR Line 3: Nairobi Central - Lukenya",
+        "color": "#005B96",
+        "shiftCoords": [
+          0,
+          -1
+        ],
+        "mode": "rail",
+        "nodes": [
+          {
+            "name": "Nairobi \nCentral",
+            "coords": [
+              180,
+              144
+            ],
+            "labelPos": "S",
+            "marker": "interchange",
+            "canonical": false,
+            "shiftCoords": [0,0],
+            "labelShiftCoords": [0, 0],
+            "hide": true
+          },
+          {
+            "name": "Makadara",
+            "coords": [
+              200,
+              144
+            ],
+            "labelPos": "S",
+            "marker": "interchange",
+            "canonical": false,
+            "shiftCoords": [0,0],
+            "labelShiftCoords": [0, 0],
+            "hide": true
+          },
+          {
+            "name": "Donholm",
+            "coords": [
+              216,
+              144
+            ],
+            "labelPos": "S"
+          },
+          {
+            "name": "Imara Daima",
+            "coords": [
+              216,
+              128
+            ],
+            "labelPos": "W",
+            "marker": "interchange",
+            "canonical": true,
+            "shiftCoords": [0.5, 0],
+            "labelShiftCoords": [1, -2],
+            "hide": false
+          },
+          {
+            "name": "Nairobi SGR Terminus",
+            "coords": [
+              216,
+              112
+            ],
+            "labelPos": "S"
+          },
+          {
+            "name": "Marimbeti",
+            "coords": [
+              252,
+              76
+            ],
+            "labelPos": "SW",
+            "shiftCoords": [-1, 0],
+            "labelShiftCoords": [0, 0],
+            "hide": false
+          },
+          {
+            "name": "Athi River",
+            "coords": [
+              276,
+              52
+            ],
+            "labelPos": "NE"
+          },
+          {
+            "name": "Kitengela",
+            "coords": [
+              276,
+              20
+            ],
+            "labelPos": "S"
+          },
+          {
+            "name": "Lukenya",
+            "coords": [
+              276,
+              0
+            ],
+            "labelPos": "S"
+          }
+        ]
+      },
+      {
+        "name": "NCR Line 5: Nairobi Central - Embakasi Village",
+        "label": "NCR Line 5: Nairobi Central - Embakasi Village",
+        "color": "#E69F00",
+        "shiftCoords": [
+          0,
+          0
+        ],
+        "mode": "rail",
+        "nodes": [
+          {
+            "name": "Nairobi \nCentral",
+            "coords": [
+              180,
+              144
+            ],
+            "labelPos": "S",
+            "marker": "interchange",
+            "canonical": false,
+            "shiftCoords": [0,0],
+            "labelShiftCoords": [0, 0],
+            "hide": true
+          },
+          {
+            "name": "Makadara",
+            "coords": [
+              200,
+              144
+            ],
+            "labelPos": "S",
+            "marker": "interchange",
+            "canonical": false,
+            "shiftCoords": [0,0],
+            "labelShiftCoords": [0, 0],
+            "hide": true
+          },
+          {
+            "name": "Donholm",
+            "coords": [
+              216,
+              144
+            ],
+            "labelPos": "S"
+          },
+          {
+            "name": "Avenue Park",
+            "coords": [
+              224,
+              136
+            ],
+            "labelPos": "NE"
+          },
+          {
+            "name": "Pipeline",
+            "coords": [
+              232,
+              128
+            ],
+            "labelPos": "S",
+            "shiftCoords":[0.5,0]
+          },
+          {
+            "name": "Aviation",
+            "coords": [
+              248,
+              128
+            ],
+            "labelPos": "N"
+          },
+          {
+            "name": "Embakasi Village",
+            "coords": [
+              264,
+              128
+            ],
+            "labelPos": "S"
+          }
+        ]
+      },
+      {
+        "name": "NCR Line 8: Nairobi Central - Ngong",
+        "label": "NCR Line 8: Nairobi Central - Ngong",
+        "color": "#EE0000",
+        "shiftCoords": [
+          0,
+          -1
+        ],
+        "mode": "rail",
+        "nodes": [
+          {
+            "name": "Nairobi \nCentral",
+            "coords": [
+              180,
+              144
+            ],
+            "labelPos": "S",
+            "marker": "interchange",
+            "canonical": false,
+            "shiftCoords": [0,0],
+            "labelShiftCoords": [0, 0],
+            "hide": true
+          },
+          {
+            "name": "Nyayo",
+            "coords": [
+              164,
+              144
+            ],
+            "labelPos": "S"
+          },
+          {
+            "name": "Strathmore \nUniversity",
+            "coords": [
+              148,
+              144
+            ],
+            "labelPos": "S"
+          },
+          {
+            "name": "Ngummo",
+            "coords": [
+              132,
+              144
+            ],
+            "labelPos": "S"
+          },
+          {
+            "name": "Mashimoni",
+            "coords": [
+              116,
+              144
+            ],
+            "labelPos": "S"
+          },
+          {
+            "name": "Olympic",
+            "coords": [
+              100,
+              144
+            ],
+            "labelPos": "S"
+          },
+          {
+            "name": "Kibera",
+            "coords": [
+              80,
+              144
+            ],
+            "labelPos": "S"
+          },
+          {
+            "name": "Kimbo \nStage",
+            "coords": [
+              64,
+              144
+            ],
+            "labelPos": "S"
+          },
+          {
+            "name": "Lenana/ Riruta",
+            "coords": [
+              48,
+              144
+            ],
+            "labelPos": "S"
+          },
+          {
+            "name": "Karen",
+            "coords": [
+              32,
+              128
+            ],
+            "labelPos": "NW",
+            "canonical": true,
+            "shiftCoords": [1,0],
+            "labelShiftCoords": [0, 0],
+            "hide": false
+          },
+          {
+            "name": "Bul-Bul",
+            "coords": [
+              16,
+              112
+            ],
+            "labelPos": "NW"
+          },
+          {
+            "name": "Ngong",
+            "coords": [
+              0,
+              96
+            ],
+            "labelPos": "NW",
+            "canonical": true,
+            "shiftCoords": [0,-2.4],
+            "labelShiftCoords": [0, -1],
+            "hide": false
+          }
+        ]
+      }
+    ]
+  }
