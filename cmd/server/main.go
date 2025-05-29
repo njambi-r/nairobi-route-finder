@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/njambi-r/nairobi-route-finder/internal/graph"
+	"github.com/njambi-r/nairobi-route-finder/pkg/graph"
 )
 
 func main() {
